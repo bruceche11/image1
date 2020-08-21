@@ -1,0 +1,1 @@
+FROM index.docker.io/tensorflow/serving@sha256:f7e59a29cbc17a6b507751cddde37bccad4407c05ebf2c13b8e6ccb7d2e9affb  
